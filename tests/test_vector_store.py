@@ -73,6 +73,34 @@ class VectorStoreTests(unittest.TestCase):
         )
         self.assertEqual(["Gas Car"], [result.chunk.document_title for result in filtered])
 
+    def test_search_without_top_k_returns_all_distinct_matching_vehicles(self) -> None:
+        chunks = [
+            Chunk(
+                f"c{index}",
+                f"d{index}",
+                f"Car {index}",
+                "gasoline car",
+                "Khmer24",
+                f"https://example.com/{index}",
+                {
+                    "fuel_type": "Gasoline",
+                    "body_type": "Sedan",
+                    "price_usd": 10000 + index,
+                },
+            )
+            for index in range(4)
+        ]
+        embedder = KeywordEmbedder()
+        index = VectorIndex.build(chunks, embedder)
+
+        results = index.search("gasoline car", embedder, top_k=None)
+
+        self.assertEqual(4, len(results))
+        self.assertEqual(
+            {"d0", "d1", "d2", "d3"},
+            {result.chunk.document_id for result in results},
+        )
+
     def test_budget_is_a_strict_filter(self) -> None:
         chunks = [
             Chunk(

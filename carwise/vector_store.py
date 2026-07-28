@@ -141,7 +141,7 @@ class VectorIndex:
         query: str,
         embedder: Embedder,
         *,
-        top_k: int = 5,
+        top_k: int | None = 5,
         metadata_filters: dict[str, set[Any]] | None = None,
     ) -> list[RetrievedChunk]:
         query = query.strip()
@@ -339,7 +339,10 @@ class VectorIndex:
             )
             unique_ranked = diversified
 
+        result_limit = (
+            len(unique_ranked) if top_k is None else max(1, top_k)
+        )
         return [
             RetrievedChunk(chunk=self.chunks[index], score=float(scores[index]))
-            for index in unique_ranked[: max(1, top_k)]
+            for index in unique_ranked[:result_limit]
         ]

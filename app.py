@@ -131,7 +131,11 @@ def make_generator(provider: str):
     return RetrievalPreviewGenerator()
 
 
-def source_documents(sources, all_documents, limit: int = 3) -> list[Document]:
+def source_documents(
+    sources,
+    all_documents,
+    limit: int | None = None,
+) -> list[Document]:
     """Resolve retrieved chunks to unique listing documents in ranked order."""
     documents_by_id = {
         document.document_id: document for document in all_documents
@@ -144,7 +148,7 @@ def source_documents(sources, all_documents, limit: int = 3) -> list[Document]:
             continue
         seen.add(document_id)
         matches.append(documents_by_id[document_id])
-        if len(matches) == limit:
+        if limit is not None and len(matches) == limit:
             break
     return matches
 
@@ -155,46 +159,52 @@ def display_value(value, fallback: str = "Not verified") -> str:
     return str(value).strip()
 
 
-def render_vehicle_cards(vehicles: list[Document]) -> None:
-    columns = st.columns(len(vehicles), gap="medium")
-    for column, vehicle in zip(columns, vehicles):
-        metadata = vehicle.metadata
-        price = metadata.get("price_usd")
-        price_label = (
-            f"${float(price):,.0f}" if isinstance(price, (int, float))
-            else "Price not reported"
-        )
-        with column:
-            with st.container(border=True):
-                image_url = display_value(metadata.get("image_url"), "")
-                if image_url:
-                    st.image(
-                        image_url,
-                        caption="Marketplace listing photo",
-                        width="stretch",
+def render_vehicle_cards(
+    vehicles: list[Document],
+    cards_per_row: int = 3,
+) -> None:
+    """Render every vehicle in a readable, wrapping card grid."""
+    for row_start in range(0, len(vehicles), cards_per_row):
+        row_vehicles = vehicles[row_start : row_start + cards_per_row]
+        columns = st.columns(cards_per_row, gap="medium")
+        for column, vehicle in zip(columns, row_vehicles):
+            metadata = vehicle.metadata
+            price = metadata.get("price_usd")
+            price_label = (
+                f"${float(price):,.0f}" if isinstance(price, (int, float))
+                else "Price not reported"
+            )
+            with column:
+                with st.container(border=True):
+                    image_url = display_value(metadata.get("image_url"), "")
+                    if image_url:
+                        st.image(
+                            image_url,
+                            caption="Marketplace listing photo",
+                            width="stretch",
+                        )
+                    else:
+                        st.info("🚗 Listing photo unavailable")
+                    st.markdown(f"#### {vehicle.title}")
+                    st.markdown(f"### {price_label}")
+                    st.caption(
+                        f"{display_value(metadata.get('condition'), 'Condition unknown')} · "
+                        f"{display_value(metadata.get('body_type'), 'Body type unknown')} · "
+                        f"{display_value(metadata.get('location'), 'Location unknown')}"
                     )
-                else:
-                    st.info("🚗 Listing photo unavailable")
-                st.markdown(f"#### {vehicle.title}")
-                st.markdown(f"### {price_label}")
-                st.caption(
-                    f"{display_value(metadata.get('condition'), 'Condition unknown')} · "
-                    f"{display_value(metadata.get('body_type'), 'Body type unknown')} · "
-                    f"{display_value(metadata.get('location'), 'Location unknown')}"
-                )
-                st.markdown(
-                    f"**{'Range / efficiency' if metadata.get('fuel_type') == 'Electricity' else 'Fuel economy'}:** "
-                    f"{display_value(metadata.get('fuel_economy'))}  \n"
-                    f"**Engine:** {display_value(metadata.get('cylinders'))} cylinders · "
-                    f"{display_value(metadata.get('displacement_l'))}  \n"
-                    f"**Seats:** {display_value(metadata.get('seats'))}  \n"
-                    f"**Transmission:** {display_value(metadata.get('transmission'))}"
-                )
-                st.link_button(
-                    "View marketplace listing",
-                    vehicle.source_url,
-                    use_container_width=True,
-                )
+                    st.markdown(
+                        f"**{'Range / efficiency' if metadata.get('fuel_type') == 'Electricity' else 'Fuel economy'}:** "
+                        f"{display_value(metadata.get('fuel_economy'))}  \n"
+                        f"**Engine:** {display_value(metadata.get('cylinders'))} cylinders · "
+                        f"{display_value(metadata.get('displacement_l'))}  \n"
+                        f"**Seats:** {display_value(metadata.get('seats'))}  \n"
+                        f"**Transmission:** {display_value(metadata.get('transmission'))}"
+                    )
+                    st.link_button(
+                        "View marketplace listing",
+                        vehicle.source_url,
+                        use_container_width=True,
+                    )
 
 
 st.markdown(
@@ -222,7 +232,16 @@ st.markdown(
 
 with st.sidebar:
     st.header("Search settings")
-    top_k = st.slider("Retrieved chunks (top-k)", 2, 10, 5)
+    top_k = st.slider(
+        "Sources used in written answer",
+        2,
+        10,
+        5,
+        help=(
+            "This controls the evidence sent to the answer generator. "
+            "All qualifying vehicle cards are still displayed."
+        ),
+    )
     minimum_similarity = st.slider(
         "Minimum similarity", 0.0, 0.8, 0.22, 0.01,
         help="Higher values reject weak matches more aggressively.",
@@ -374,7 +393,8 @@ if submitted:
     started = time.perf_counter()
     with st.status("CarWise is searching...", expanded=True) as search_status:
         search_status.write(
-            f"Using the modular RAG pipeline with {top_k} requested source chunks."
+            "Searching all matching listings, then using up to "
+            f"{top_k} sources for the written answer."
         )
 
         def show_search_step(stage: str, message: str) -> None:
@@ -434,22 +454,30 @@ if submitted:
     sources = result.sources if result else index.search(
         query,
         embedder,
-        top_k=top_k,
+        top_k=None,
         metadata_filters=metadata_filters,
     )
+    if result is None:
+        sources = [
+            source for source in sources
+            if source.score >= minimum_similarity
+        ]
 
     if result and not result.grounded:
         st.warning(result.answer)
     elif not sources:
         st.info("No vehicles matched the current question and filters.")
     else:
-        best_matches = source_documents(sources, documents, limit=3)
-        if best_matches:
-            st.subheader("Best matches")
-            st.caption("The strongest matches from the Cambodian listing snapshot.")
-            render_vehicle_cards(best_matches)
+        matching_vehicles = source_documents(sources, documents)
+        if matching_vehicles:
+            st.subheader(f"Matching cars ({len(matching_vehicles)})")
+            st.caption(
+                "All qualifying Cambodian listings, ordered from strongest "
+                "match to weakest."
+            )
+            render_vehicle_cards(matching_vehicles)
 
-            target_price = best_matches[0].metadata.get("price_usd")
+            target_price = matching_vehicles[0].metadata.get("price_usd")
             if isinstance(target_price, (int, float)):
                 query_minimum, query_maximum = inferred_price_range(query)
                 comparison_filters = dict(metadata_filters)
@@ -460,17 +488,17 @@ if submitted:
                     and (query_minimum is None or price >= query_minimum)
                     and (query_maximum is None or price <= query_maximum)
                 }
-                target_fuel = best_matches[0].metadata.get("fuel_type")
+                target_fuel = matching_vehicles[0].metadata.get("fuel_type")
                 if target_fuel and target_fuel != "Not reported":
                     comparison_filters["fuel_type"] = {target_fuel}
-                target_body_type = best_matches[0].metadata.get("body_type")
+                target_body_type = matching_vehicles[0].metadata.get("body_type")
                 if target_body_type and target_body_type != "Not reported":
                     comparison_filters["body_type"] = {target_body_type}
                 similar_vehicles = similar_price_documents(
                     documents,
                     target_price,
                     exclude_document_ids={
-                        vehicle.document_id for vehicle in best_matches
+                        vehicle.document_id for vehicle in matching_vehicles
                     },
                     metadata_filters=comparison_filters,
                     limit=3,

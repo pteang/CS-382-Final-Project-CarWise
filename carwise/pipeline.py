@@ -102,12 +102,13 @@ class RAGPipeline:
         sources = self.index.search(
             query,
             self.embedder,
-            top_k=top_k,
+            top_k=None,
             metadata_filters=metadata_filters,
         )
         report(
             "retrieval",
-            f"Retrieved {len(sources)} candidate chunks (top-k: {top_k}).",
+            f"Retrieved all {len(sources)} candidate vehicles that match the "
+            "question and active filters.",
         )
         relevant = [source for source in sources if source.score >= minimum_similarity]
         report(
@@ -126,11 +127,12 @@ class RAGPipeline:
 
         report(
             "generation",
-            f"Generating a grounded answer with {self.generator.provider_name}.",
+            f"Generating a grounded answer from the top {min(top_k, len(relevant))} "
+            f"matches with {self.generator.provider_name}.",
         )
-        # Three complete profiles keep the local-LLM prompt focused and responsive.
-        # The interface still receives the complete top-k retrieval list below.
-        answer = self.generator.generate(query, relevant[:3], answer_mode)
+        # Keep generation focused while returning every qualifying match to the
+        # interface for card rendering.
+        answer = self.generator.generate(query, relevant[:top_k], answer_mode)
         report(
             "citations",
             "Grounded answer and citation-linked source evidence are ready.",

@@ -126,19 +126,20 @@ this 3,000-chunk classroom corpus.
 
 Semantic ranking is combined with strict metadata constraints inferred from the query,
 such as maximum price, model year, make, fuel type, and body type. This prevents a
-semantically similar but over-budget vehicle from being recommended. The default
-`top_k=5` provides enough evidence for comparison without overwhelming the sources
-panel. The default `0.22` similarity threshold rejected weak evidence during manual
-testing while retaining short make/model searches.
+semantically similar but over-budget vehicle from being recommended. Vector retrieval
+ranks every distinct listing that passes those constraints. The answer-evidence control
+defaults to `top_k=5`, so generation stays focused while the interface displays every
+result at or above the default `0.22` similarity threshold.
 
 ### Generation and grounding
 
 The default offline generator is the instruction-tuned
 [`Qwen/Qwen2.5-0.5B-Instruct`](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)
-model. It receives compact evidence for the three strongest retrieved profiles, while
-the interface continues to display the complete top-k source list. Compact context
-reduced mean generation latency to 4.79 seconds in the recorded nine-query evaluation.
-A citation guard requires at least one valid `[S#]` reference before an answer is shown.
+model. It receives compact evidence for the strongest profiles selected by the
+answer-evidence control, while the interface displays all qualifying vehicle cards and
+source records. Compact context reduced mean generation latency to 4.79 seconds in the
+recorded nine-query evaluation. A citation guard requires at least one valid `[S#]`
+reference before an answer is shown.
 
 The small local model is a deliberate offline-demo trade-off, not the highest-quality
 generator. It produced valid citation labels on 9/9 evaluation queries, but manual
