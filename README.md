@@ -132,3 +132,7 @@ panel are therefore kept visible so the user can check the evidence.
 
 Questions about unsupported topics such as crash safety or reliability are
 rejected instead of producing an unsupported recommendation.
+
+---
+
+Phalborith Teang - CS 382 Final Project - Paragon International University
