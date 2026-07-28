@@ -9,7 +9,7 @@ listing data and includes source citations.
 
 - Natural-language car search
 - Filters for price, make, year, condition, location, and body type
-- Cards with photos, prices, fuel economy, engine size, seats, and transmission
+- Cards with photos, prices, fuel economy, engine size, seats, and transmission. Informations that Khmer24 itself doesn't provide sometime.
 - Similar-price recommendations
 - Expandable source chunks with similarity scores
 - Local LLM, OpenAI, Ollama, and deterministic fallback options
