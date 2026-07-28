@@ -76,6 +76,8 @@ class RAGPipeline:
         answer_mode: str,
         metadata_filters: dict[str, set[Any]] | None = None,
         on_step: StepCallback | None = None,
+        enforce_vehicle_scope: bool = True,
+        candidate_label: str = "vehicles",
     ) -> AnswerResult:
         def report(stage: str, message: str) -> None:
             if on_step is not None:
@@ -87,7 +89,9 @@ class RAGPipeline:
             report("stopped", "Search stopped because the question is empty.")
             return AnswerResult("Please enter a question.", [], False)
 
-        unsupported = unsupported_requirements(query)
+        unsupported = (
+            unsupported_requirements(query) if enforce_vehicle_scope else []
+        )
         if unsupported:
             report(
                 "stopped",
@@ -107,7 +111,7 @@ class RAGPipeline:
         )
         report(
             "retrieval",
-            f"Retrieved all {len(sources)} candidate vehicles that match the "
+            f"Retrieved all {len(sources)} candidate {candidate_label} that match the "
             "question and active filters.",
         )
         relevant = [source for source in sources if source.score >= minimum_similarity]

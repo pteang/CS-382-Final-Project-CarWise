@@ -161,6 +161,10 @@ class VectorIndex:
         )
 
         query_lower = query.lower()
+        is_uploaded_corpus = bool(self.chunks) and all(
+            chunk.metadata.get("corpus_type") == "uploaded"
+            for chunk in self.chunks
+        )
         explicit_filters = metadata_filters or {}
         inferred_years = {
             int(value)
@@ -231,6 +235,19 @@ class VectorIndex:
         mentioned_provinces = {
             province for province in known_provinces if province.lower() in query_lower
         }
+        if is_uploaded_corpus:
+            # Uploaded text files do not have CarWise's structured vehicle metadata.
+            # Their years, money values, and words such as "new" or "electric" must
+            # remain searchable text instead of being treated as strict car filters.
+            inferred_years = set()
+            inferred_fuels = set()
+            body_terms = []
+            inferred_conditions = set()
+            min_price = None
+            max_price = None
+            mentioned_makes = set()
+            mentioned_models = set()
+            mentioned_provinces = set()
 
         candidates: list[int] = []
         for index, chunk in enumerate(self.chunks):

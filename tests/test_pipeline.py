@@ -99,6 +99,24 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(2, len(generator.sources))
         self.assertTrue(result.grounded)
 
+    def test_uploaded_corpus_can_answer_topics_outside_vehicle_scope(self) -> None:
+        index = AllMatchesIndex()
+        generator = CapturingGenerator()
+        pipeline = RAGPipeline(index, object(), generator)
+
+        result = pipeline.answer(
+            "What does the document say about safety?",
+            top_k=2,
+            minimum_similarity=0.2,
+            answer_mode="Concise",
+            enforce_vehicle_scope=False,
+            candidate_label="uploaded documents",
+        )
+
+        self.assertTrue(result.grounded)
+        self.assertEqual(5, len(result.sources))
+        self.assertEqual(2, len(generator.sources))
+
 
 if __name__ == "__main__":
     unittest.main()

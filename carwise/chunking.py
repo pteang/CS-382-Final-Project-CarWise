@@ -81,7 +81,7 @@ def section_aware_chunks(
         for line in document.text.splitlines()
         if line.strip()
     )
-    if overview_text:
+    if overview_text and document.metadata.get("corpus_type") != "uploaded":
         chunks.append(
             Chunk(
                 chunk_id=f"{document.document_id}::chunk-{sequence}",

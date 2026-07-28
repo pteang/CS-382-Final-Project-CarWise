@@ -12,6 +12,7 @@ listing data and includes source citations.
 - Cards with photos, prices, fuel economy, engine size, seats, and transmission. Informations that Khmer24 itself doesn't provide sometime.
 - Similar-price recommendations
 - Expandable source chunks with similarity scores
+- Optional upload and search for custom `.txt` documents
 - Local LLM, OpenAI, Ollama, and deterministic fallback options
 - Clear failure messages when the dataset cannot support a question
 
@@ -98,6 +99,18 @@ The default Local LLM does not require an API key. OpenAI can be enabled with:
 export OPENAI_API_KEY="your-key"
 python -m streamlit run app.py
 ```
+
+## Custom text corpus
+
+The **Upload new corpus** section in the sidebar accepts up to 20 UTF-8 `.txt`
+files, with a 200 KB limit per file and a 2 MB total limit. After uploading,
+choose **Uploaded text files**, enter a question, and click **Search uploaded
+documents**.
+
+Uploaded files are chunked and indexed for the current Streamlit session. They
+are not saved to the CarWise dataset or committed to the repository. Vehicle
+filters and car cards are hidden in this mode because ordinary text files do
+not contain the structured listing fields those features require.
 
 ## Tests and evaluation
 
