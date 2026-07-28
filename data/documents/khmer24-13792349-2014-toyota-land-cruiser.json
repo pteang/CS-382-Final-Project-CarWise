@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13792349-2014-toyota-land-cruiser",
+  "title": "2014 Toyota Land Cruiser",
+  "text": "# 2014 Toyota Land Cruiser\n## Cambodian marketplace listing\n- Listing title: Toyota Land Cruiser 2014 V6.\n- Asking price: $38,000 USD.\n- Condition label: Used.\n- Location: Boeung Keng Kang, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Toyota.\n- Model: Land Cruiser.\n- Model year: 2014.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 15 mpg combined (EPA).\n- Cylinders: 8.\n- Engine displacement: 5.7 L.\n- Seating capacity: 7–8.\n- Transmission: Automatic (S6).\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/toyota-land-cruiser-2014-v6-arab-adid-13792349",
+  "metadata": {
+    "listing_id": "13792349",
+    "year": 2014,
+    "model_year": 2014,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "price_usd": 38000,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Boeung Keng Kang, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "15 mpg combined (EPA)",
+    "cylinders": "8",
+    "displacement_l": "5.7 L",
+    "seats": "7–8",
+    "transmission": "Automatic (S6)",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=34327",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/26-07-21/toyota-land-cruiser-2014-v6-arab-777161178459551579048355-b.jpg"
+  }
+}

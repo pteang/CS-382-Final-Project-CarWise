@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13747561-2022-toyota-land-cruiser-gr-sport",
+  "title": "2022 Toyota Land Cruiser GR Sport",
+  "text": "# 2022 Toyota Land Cruiser GR Sport\n## Cambodian marketplace listing\n- Listing title: Toyota Land Cruiser GR Sport V6 2022.\n- Asking price: $118,000 USD.\n- Condition label: Used.\n- Location: Angk Snuol, Kandal.\n- Province or municipality: Kandal.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Toyota.\n- Model: Land Cruiser GR Sport.\n- Model year: 2022.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Official figure unavailable: seller did not identify the exact engine/trim.\n- Cylinders: 6.\n- Engine displacement: 3.5 L twin-turbo.\n- Seating capacity: 7.\n- Transmission: 10-speed automatic.\n- Specification confidence: Model-family reference.\n- Specification source: Toyota Land Cruiser 300 reference.\n- Specification note: The title identifies a gasoline V6 GR Sport; verify the import-market configuration.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/land-gr-s-v6-2022-adid-13747561",
+  "metadata": {
+    "listing_id": "13747561",
+    "year": 2022,
+    "model_year": 2022,
+    "make": "Toyota",
+    "model": "Land Cruiser GR Sport",
+    "price_usd": 118000,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Angk Snuol, Kandal",
+    "province": "Kandal",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "Official figure unavailable: seller did not identify the exact engine/trim",
+    "cylinders": "6",
+    "displacement_l": "3.5 L twin-turbo",
+    "seats": "7",
+    "transmission": "10-speed automatic",
+    "spec_source_name": "Toyota Land Cruiser 300 reference",
+    "spec_source_url": "https://global.toyota/en/newsroom/toyota/35584064.html",
+    "spec_confidence": "Model-family reference",
+    "spec_note": "The title identifies a gasoline V6 GR Sport; verify the import-market configuration.",
+    "image_url": "https://images.khmer24.co/26-07-09/land-gr-s-v6-2022--1271085178356890336095249-e.jpg"
+  }
+}

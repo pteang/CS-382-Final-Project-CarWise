@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13769348-2015-kia-ray",
+  "title": "2015 Kia Ray",
+  "text": "# 2015 Kia Ray\n## Cambodian marketplace listing\n- Listing title: Kia Ray 2015.\n- Asking price: $8,850 USD.\n- Condition label: Used.\n- Location: Sen Sok, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Tax Paper.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Kia.\n- Model: Ray.\n- Model year: 2015.\n- Body type: Hatchback.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 13.5 km/L combined.\n- Cylinders: 3.\n- Engine displacement: 1.0 L.\n- Seating capacity: 5.\n- Transmission: 4-speed automatic.\n- Specification confidence: Model-family reference.\n- Specification source: Kia Ray model-family reference.\n- Specification note: Korean-market trim and test-cycle values may differ from the imported vehicle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/kia-ray-2015-adid-13769348",
+  "metadata": {
+    "listing_id": "13769348",
+    "year": 2015,
+    "model_year": 2015,
+    "make": "Kia",
+    "model": "Ray",
+    "price_usd": 8850,
+    "condition": "Used",
+    "registration": "Tax Paper",
+    "location": "Sen Sok, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Hatchback",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "13.5 km/L combined",
+    "cylinders": "3",
+    "displacement_l": "1.0 L",
+    "seats": "5",
+    "transmission": "4-speed automatic",
+    "spec_source_name": "Kia Ray model-family reference",
+    "spec_source_url": "https://www.kia.com/kr/vehicles/ray/features",
+    "spec_confidence": "Model-family reference",
+    "spec_note": "Korean-market trim and test-cycle values may differ from the imported vehicle.",
+    "image_url": "https://images.khmer24.co/26-07-14/kia-ray-2015--1291319178402350745146366-b.jpg"
+  }
+}

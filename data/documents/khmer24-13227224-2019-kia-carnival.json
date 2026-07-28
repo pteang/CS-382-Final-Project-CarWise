@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13227224-2019-kia-carnival",
+  "title": "2019 Kia Carnival",
+  "text": "# 2019 Kia Carnival\n## Cambodian marketplace listing\n- Listing title: Kia Carnival 2019 Good Condition Good Price 💯.\n- Asking price: $23,500 USD.\n- Condition label: Used.\n- Location: Saensokh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Kia.\n- Model: Carnival.\n- Model year: 2019.\n- Body type: MPV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 7.5 L/100 km combined for an official regional diesel configuration.\n- Cylinders: 4 or 6.\n- Engine displacement: 2.2 L diesel or 3.5 L gasoline.\n- Seating capacity: 7, 8, 9, or 11 depending on market.\n- Transmission: 8-speed automatic (current family reference).\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Kia Carnival official specifications.\n- Specification note: Carnival engines and seating layouts vary substantially by market and generation; confirm the listing's exact configuration.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13227224",
+  "metadata": {
+    "listing_id": "13227224",
+    "year": 2019,
+    "model_year": 2019,
+    "make": "Kia",
+    "model": "Carnival",
+    "price_usd": 23500,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Saensokh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "MPV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "7.5 L/100 km combined for an official regional diesel configuration",
+    "cylinders": "4 or 6",
+    "displacement_l": "2.2 L diesel or 3.5 L gasoline",
+    "seats": "7, 8, 9, or 11 depending on market",
+    "transmission": "8-speed automatic (current family reference)",
+    "spec_source_name": "Kia Carnival official specifications",
+    "spec_source_url": "https://www.kia.com/hk/en/showroom/carnival/specification.html",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "Carnival engines and seating layouts vary substantially by market and generation; confirm the listing's exact configuration.",
+    "image_url": "https://images.khmer24.co/25-08-28/kia-carnival-2019-good-condition-good-price-ud83d-udcaf-423807175638423212374388-b.jpg"
+  }
+}

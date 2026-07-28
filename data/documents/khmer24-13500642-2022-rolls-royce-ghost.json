@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13500642-2022-rolls-royce-ghost",
+  "title": "2022 Rolls-Royce Ghost",
+  "text": "# 2022 Rolls-Royce Ghost\n## Cambodian marketplace listing\n- Listing title: Rolls-Royce Ghost.\n- Asking price: $568,000 USD.\n- Condition label: Used.\n- Location: Krong Preah Sihanouk, Preah Sihanouk.\n- Province or municipality: Preah Sihanouk.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Rolls-Royce.\n- Model: Ghost.\n- Model year: 2022.\n- Body type: Sedan.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 14 mpg combined (EPA).\n- Cylinders: 12.\n- Engine displacement: 6.7 L.\n- Seating capacity: Usually 4–5; exact model/trim not identified.\n- Transmission: Automatic (S8).\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13500642",
+  "metadata": {
+    "listing_id": "13500642",
+    "year": 2022,
+    "model_year": 2022,
+    "make": "Rolls-Royce",
+    "model": "Ghost",
+    "price_usd": 568000,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Krong Preah Sihanouk, Preah Sihanouk",
+    "province": "Preah Sihanouk",
+    "body_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "14 mpg combined (EPA)",
+    "cylinders": "12",
+    "displacement_l": "6.7 L",
+    "seats": "Usually 4–5; exact model/trim not identified",
+    "transmission": "Automatic (S8)",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=44303&id=44304&id=44305",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/25-06-01/rolls-royce-ghost-1048060174878879165988521-b.jpg"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "evaluated_at": "2026-07-28T09:53:53.308141+00:00",
+  "retrieval_metric": "Every expected evidence term appears in the top-5 retrieved chunks.",
+  "generation_metric": "The answer is non-empty and every citation label refers to a supplied chunk.",
+  "generation_provider": "Local LLM (Qwen/Qwen2.5-0.5B-Instruct)",
+  "retrieval_passed": 9,
+  "generation_passed": 9,
+  "quality_passed": 4,
+  "total": 9,
+  "retrieval_pass_rate": 1.0,
+  "generation_pass_rate": 1.0,
+  "quality_pass_rate": 0.444,
+  "mean_retrieval_latency_seconds": 0.009,
+  "mean_generation_latency_seconds": 4.793,
+  "results": [
+    {
+      "id": "q1",
+      "query": "Which used SUVs in Phnom Penh are listed below $20,000?",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Asking price",
+        "Used",
+        "SUV",
+        "Phnom Penh"
+      ],
+      "top_score": 0.5731,
+      "top_documents": [
+        {
+          "title": "2015 Land Rover Discovery Sport Luxury SUV",
+          "score": 0.5731
+        },
+        {
+          "title": "2012 Not identified RangeEvoque Suv",
+          "score": 0.5808
+        },
+        {
+          "title": "2019 Honda HR-V",
+          "score": 0.5185
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "The 2015 Land Rover Discovery Sport Luxury SUV, priced at $18,000, is listed as used and has an economy of 22 mpg combined (EPA). It is located in Tuol Kouk, Phnom Penh, and is equipped with a 4-cylinder engine and a displacement of 2 liters. The vehicle's condition is described as \"Used,\" and it is identified as a SUV.\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.022,
+      "generation_latency_seconds": 5.366,
+      "quality_status": "pass",
+      "manual_assessment": "The answer selects a matching used SUV under the budget and keeps its price, location, body type, and engine details within the retrieved evidence.",
+      "notes": "Checks budget, condition, body type, and Cambodian location constraints."
+    },
+    {
+      "id": "q2",
+      "query": "Recommend a Toyota Prius under $18,000.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Toyota",
+        "Prius",
+        "Hybrid"
+      ],
+      "top_score": 0.55,
+      "top_documents": [
+        {
+          "title": "2008 Toyota Prius",
+          "score": 0.55
+        },
+        {
+          "title": "2012 Toyota Prius",
+          "score": 0.5459
+        },
+        {
+          "title": "2012 Toyota Prius",
+          "score": 0.5439
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "Based on the provided information, the most relevant recommendation for a Toyota Prius under $18,000 is the 2012 Toyota Prius. It has a price of $15,600, is in good condition, uses a hybrid engine, has an economy of 48 mpg combined, and features an automatic transmission with variable gear ratios.\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.013,
+      "generation_latency_seconds": 3.889,
+      "quality_status": "needs_review",
+      "manual_assessment": "The recommendation and price are supported, but the phrase \"good condition\" is stronger than the seller's generic Used condition label.",
+      "notes": "Checks make/model matching and a strict upper budget."
+    },
+    {
+      "id": "q3",
+      "query": "Find an electric car listed in Cambodia under $30,000.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Electricity",
+        "Asking price"
+      ],
+      "top_score": 0.6865,
+      "top_documents": [
+        {
+          "title": "2026 JAC EV",
+          "score": 0.6865
+        },
+        {
+          "title": "2026 JAC EV",
+          "score": 0.6821
+        },
+        {
+          "title": "2023 Not identified Ev",
+          "score": 0.6807
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "The 2026 JAC EV in Saensokh, Phnom Penh, Cambodia is priced at $29,999 and has a single-speed electric drive, located in a sedan body. It is in good condition and can be used for range testing. The most relevant details include the fuel type (electric), displacement (N/A), and seating capacity (usually 4-5).\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.008,
+      "generation_latency_seconds": 4.493,
+      "quality_status": "needs_review",
+      "manual_assessment": "The vehicle, price, EV powertrain, and location are supported, but \"used for range testing\" is not present in the evidence.",
+      "notes": "Checks electric powertrain and budget matching."
+    },
+    {
+      "id": "q4",
+      "query": "Show Kia hatchbacks under $10,000.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Kia",
+        "Hatchback"
+      ],
+      "top_score": 0.4793,
+      "top_documents": [
+        {
+          "title": "2005 Kia Morning",
+          "score": 0.4793
+        },
+        {
+          "title": "2013 Kia Starex",
+          "score": 0.4544
+        },
+        {
+          "title": "2012 Kia Morning",
+          "score": 0.4694
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "[SA] The 2013 Kia Starex is priced at $8,800 and has a 5-speed manual transmission, making it an economical choice for those on a tight budget.\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.007,
+      "generation_latency_seconds": 3.806,
+      "quality_status": "fail",
+      "manual_assessment": "The answer focuses on a Kia Starex instead of the stronger Kia Morning hatchback matches. This exposes a body-type normalization error that should be corrected in a future dataset revision.",
+      "notes": "Checks make, body type, and budget constraints."
+    },
+    {
+      "id": "q5",
+      "query": "Which pickup trucks are listed below $15,000?",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Pickup",
+        "Asking price"
+      ],
+      "top_score": 0.3508,
+      "top_documents": [
+        {
+          "title": "2014 Not identified Karen do WD Pickup",
+          "score": 0.3508
+        },
+        {
+          "title": "2006 Toyota Tacoma",
+          "score": 0.3346
+        },
+        {
+          "title": "1993 Nissan Model not identified",
+          "score": 0.3253
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "Based on the provided information, the 2014 Not identified Karen do WD Pickup is listed for $13,900, which falls within the range of $15,000-$16,000. The most relevant details are its price ($13,900) and its condition (Used).\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.007,
+      "generation_latency_seconds": 4.337,
+      "quality_status": "pass",
+      "manual_assessment": "The answer identifies a retrieved pickup below $15,000 with the correct asking price and seller condition label, although its wording is awkward.",
+      "notes": "Checks pickup classification and strict price filtering."
+    },
+    {
+      "id": "q6",
+      "query": "Show diesel vehicles for sale in Phnom Penh.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Diesel",
+        "Phnom Penh"
+      ],
+      "top_score": 0.5058,
+      "top_documents": [
+        {
+          "title": "Toyota Land Cruiser Prado",
+          "score": 0.5058
+        },
+        {
+          "title": "2022 Ford Ranger Wildtrak",
+          "score": 0.4145
+        },
+        {
+          "title": "2022 Ford Ranger Wildtrak",
+          "score": 0.4142
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "[Vehicle: Toyota Land Cruiser Prado] is available for sale in Phnom Penh, priced at $29,300, which is in the used condition. It has a 4-cylinder 2.8-liter turbo diesel engine and a displacement of 2.8 liters. The vehicle's seating capacity is 7, and it comes equipped with a 6-speed automatic transmission. [Vehicle: 2022 Ford Ranger Wildtrak] is also available for sale in Phnom Penh, priced at $33,500, which is in the used condition. It has a 4-cylinder 2.0-liter bi-turbo diesel engine and a displacement of 2.0 liters. The vehicle's seating capacity is 5, and it comes equipped with a 10-speed automatic transmission. [Vehicle: 2022 Ford Ranger Wildtrak] is available for sale in Chroy Changvar, Phnom Penh, and its economy is 8.9\u201310.7 km/L in official regional diesel\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.007,
+      "generation_latency_seconds": 7.319,
+      "quality_status": "needs_review",
+      "manual_assessment": "The diesel specifications and Phnom Penh locations are supported, but saying a listing is currently available is too strong for a time-stamped marketplace snapshot.",
+      "notes": "Checks fuel type and location retrieval."
+    },
+    {
+      "id": "q7",
+      "query": "Compare used Toyota and Lexus cars under $20,000.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Toyota",
+        "Lexus",
+        "Used"
+      ],
+      "top_score": 0.5315,
+      "top_documents": [
+        {
+          "title": "2022 Lexus RX",
+          "score": 0.5315
+        },
+        {
+          "title": "2008 Toyota Prius",
+          "score": 0.4537
+        },
+        {
+          "title": "2005 Lexus RX",
+          "score": 0.511
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "[LSX] and [RX] are both used 2022 models in the $11,000 range, with [LSX] having a slightly higher economy rating of 21-30 mpg combined (EPA). Both have 3.5L displacement, 6-cylinder engine, and 21-30 mpg combined (EPA), indicating they are comparable in terms of fuel efficiency. However, [LSX] is more likely to be a hybrid model due to its higher fuel economy, while [RX] is an SUV with a lower fuel economy but better fuel efficiency. [LSX] is also more likely to be a manual transmission, whereas [RX] has an automatic transmission. Both vehicles are located in Chbar Ampov, Phnom Penh, and have a fuel efficiency rating of 21-30 mpg combined (EPA).\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.007,
+      "generation_latency_seconds": 6.716,
+      "quality_status": "fail",
+      "manual_assessment": "The local model invents vehicle abbreviations and unsupported hybrid/manual-transmission comparisons. Retrieval covered both makes, but generation quality is unacceptable.",
+      "notes": "Checks multi-brand diversification plus a budget."
+    },
+    {
+      "id": "q8",
+      "query": "Show 2012 hybrid cars under $18,000.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "2012",
+        "Hybrid",
+        "Asking price"
+      ],
+      "top_score": 0.3515,
+      "top_documents": [
+        {
+          "title": "2012 Toyota Prius",
+          "score": 0.3515
+        },
+        {
+          "title": "2012 Toyota Prius",
+          "score": 0.3629
+        }
+      ],
+      "citations": [
+        1,
+        2
+      ],
+      "answer": "[Toyota Prius] - Price: $15,600, Condition: Used, Body: Hatchback, Fuel: Hybrid, Location: Tuol Kouk, Phnom Penh, Economy: 48 mpg combined, Cylinders: 4, Displacement: 1.8 L, Seats: 5, Transmission: e-CVT.\n\nGrounding references used by the local LLM: [S1] [S2]",
+      "retrieval_latency_seconds": 0.007,
+      "generation_latency_seconds": 3.36,
+      "quality_status": "pass",
+      "manual_assessment": "The answer is concise and accurately reports a retrieved 2012 Prius, its price, hybrid powertrain, efficiency, seating, and transmission.",
+      "notes": "Checks exact year, powertrain, and budget constraints."
+    },
+    {
+      "id": "q9",
+      "query": "Show sports cars under $50,000.",
+      "retrieval_passed": true,
+      "generation_passed": true,
+      "matched_terms": [
+        "Sports",
+        "Asking price"
+      ],
+      "top_score": 0.2893,
+      "top_documents": [
+        {
+          "title": "2015 Mercedes-Benz CLA-Class",
+          "score": 0.2893
+        },
+        {
+          "title": "2014 Mercedes-Benz CLA-Class",
+          "score": 0.306
+        },
+        {
+          "title": "2015 Mercedes-Benz CLA-Class",
+          "score": 0.2822
+        }
+      ],
+      "citations": [
+        1,
+        2,
+        3
+      ],
+      "answer": "[SA1] The 2015 Mercedes-Benz CLA-Class is priced at $32,000, which falls under the $50,000 range, making it a suitable choice for those looking to purchase a sports car under $50,000.\n\nGrounding references used by the local LLM: [S1] [S2] [S3]",
+      "retrieval_latency_seconds": 0.007,
+      "generation_latency_seconds": 3.848,
+      "quality_status": "pass",
+      "manual_assessment": "The answer recommends a retrieved sports-classified listing below $50,000 and stays within the available price evidence, though it could compare more than one result.",
+      "notes": "Checks dedicated sports-car classification and budget filtering."
+    }
+  ]
+}

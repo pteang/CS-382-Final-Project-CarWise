@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13418032-2019-mitsubishi-xpander",
+  "title": "2019 Mitsubishi Xpander",
+  "text": "# 2019 Mitsubishi Xpander\n## Cambodian marketplace listing\n- Listing title: Mitsubishi Xpander year 2019.\n- Asking price: $21,500 USD.\n- Condition label: Used.\n- Location: Prampir Meakkakra, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Mitsubishi.\n- Model: Xpander.\n- Model year: 2019.\n- Body type: Sedan.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Manufacturer reports a low-consumption 1.5 L powertrain; exact market figure varies.\n- Cylinders: 4.\n- Engine displacement: 1.5 L.\n- Seating capacity: 7.\n- Transmission: 5-speed manual or 4-speed automatic.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Mitsubishi Motors XPANDER release.\n- Specification note: Official launch specifications are for an ASEAN-market XPANDER.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13418032",
+  "metadata": {
+    "listing_id": "13418032",
+    "year": 2019,
+    "model_year": 2019,
+    "make": "Mitsubishi",
+    "model": "Xpander",
+    "price_usd": 21500,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Prampir Meakkakra, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Manufacturer reports a low-consumption 1.5 L powertrain; exact market figure varies",
+    "cylinders": "4",
+    "displacement_l": "1.5 L",
+    "seats": "7",
+    "transmission": "5-speed manual or 4-speed automatic",
+    "spec_source_name": "Mitsubishi Motors XPANDER release",
+    "spec_source_url": "https://www.mitsubishi-motors.com/en/newsroom/newsrelease/2017/20170810_1.html",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "Official launch specifications are for an ASEAN-market XPANDER.",
+    "image_url": "https://images.khmer24.co/26-04-20/mitsubishi-xpander-year-2019-753348177666129756845856-b.jpg"
+  }
+}

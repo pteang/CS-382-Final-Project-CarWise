@@ -1,0 +1,21 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+data/index/
+data/raw/*
+!data/raw/khmer24_cars_2026-07-28.csv
+!data/raw/reference_vehicle_specs.csv
+!data/raw/listing_images.csv
+!data/raw/khmer24_diverse_catalog_2026-07-28.json
+tmp/
+
+# Presentation QA artifacts (the final .pptx remains tracked)
+presentation/CarWise_Final_Presentation/
+presentation/*_montage.png
+presentation/*.inspect.ndjson
+presentation_assets/carwise-results.png
+presentation_assets/carwise-full-page.png

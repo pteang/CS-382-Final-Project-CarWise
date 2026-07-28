@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13795381-gac-aion-i60-650",
+  "title": "GAC Aion i60 650",
+  "text": "# GAC Aion i60 650\n## Cambodian marketplace listing\n- Listing title: GAC Aion i60 650 Advanced Edition.\n- Asking price: $25,000 USD.\n- Condition label: New.\n- Location: Sen Sok, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Tax Paper.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: GAC.\n- Model: Aion i60 650.\n- Model year: Not reported.\n- Body type: SUV.\n- Fuel or powertrain: Electricity.\n## Reference specifications\n- Fuel economy: Seller advertises 650 km range.\n- Cylinders: N/A (electric).\n- Engine displacement: N/A (electric).\n- Seating capacity: 5.\n- Transmission: Single-speed electric drive.\n- Specification confidence: Seller-advertised range.\n- Specification source: Khmer24 listing.\n- Specification note: Range is a seller claim and its test cycle is not identified; verify the exact Aion trim.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/gac-aion-i60650-advanced-edition-adid-13795381",
+  "metadata": {
+    "listing_id": "13795381",
+    "year": null,
+    "model_year": null,
+    "make": "GAC",
+    "model": "Aion i60 650",
+    "price_usd": 25000,
+    "condition": "New",
+    "registration": "Tax Paper",
+    "location": "Sen Sok, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Electricity",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Seller advertises 650 km range",
+    "cylinders": "N/A (electric)",
+    "displacement_l": "N/A (electric)",
+    "seats": "5",
+    "transmission": "Single-speed electric drive",
+    "spec_source_name": "Khmer24 listing",
+    "spec_source_url": "https://www.khmer24.com/km/gac-aion-i60650-advanced-edition-adid-13795381",
+    "spec_confidence": "Seller-advertised range",
+    "spec_note": "Range is a seller claim and its test cycle is not identified; verify the exact Aion trim.",
+    "image_url": "https://images.khmer24.co/26-07-21/gac-aion-i60-650-advanced-edition-1122826178462703785572765-b.jpg"
+  }
+}

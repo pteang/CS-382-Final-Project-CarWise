@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13723926-2002-toyota-camry-le",
+  "title": "2002 Toyota Camry LE",
+  "text": "# 2002 Toyota Camry LE\n## Cambodian marketplace listing\n- Listing title: Toyota Camry LE 2002.\n- Asking price: $5,350 USD.\n- Condition label: Used.\n- Location: Sen Sok, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Toyota.\n- Model: Camry LE.\n- Model year: 2002.\n- Body type: Sedan.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 21–24 mpg combined.\n- Cylinders: 4 or 6.\n- Engine displacement: 2.4 L or 3.0 L.\n- Seating capacity: 5.\n- Transmission: 4-speed automatic.\n- Specification confidence: Model-year range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: Camry LE was available with multiple engines; the listing does not identify one.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/toyota-camry-le-2002-adid-13723926",
+  "metadata": {
+    "listing_id": "13723926",
+    "year": 2002,
+    "model_year": 2002,
+    "make": "Toyota",
+    "model": "Camry LE",
+    "price_usd": 5350,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Sen Sok, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "21–24 mpg combined",
+    "cylinders": "4 or 6",
+    "displacement_l": "2.4 L or 3.0 L",
+    "seats": "5",
+    "transmission": "4-speed automatic",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=17759&id=17761",
+    "spec_confidence": "Model-year range",
+    "spec_note": "Camry LE was available with multiple engines; the listing does not identify one.",
+    "image_url": "https://images.khmer24.co/26-07-03/camery-le-2002-1302890178305110924792741-b.jpg"
+  }
+}

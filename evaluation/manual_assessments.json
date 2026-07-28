@@ -1,0 +1,38 @@
+{
+  "q1": {
+    "status": "pass",
+    "assessment": "The answer selects a matching used SUV under the budget and keeps its price, location, body type, and engine details within the retrieved evidence."
+  },
+  "q2": {
+    "status": "needs_review",
+    "assessment": "The recommendation and price are supported, but the phrase \"good condition\" is stronger than the seller's generic Used condition label."
+  },
+  "q3": {
+    "status": "needs_review",
+    "assessment": "The vehicle, price, EV powertrain, and location are supported, but \"used for range testing\" is not present in the evidence."
+  },
+  "q4": {
+    "status": "fail",
+    "assessment": "The answer focuses on a Kia Starex instead of the stronger Kia Morning hatchback matches. This exposes a body-type normalization error that should be corrected in a future dataset revision."
+  },
+  "q5": {
+    "status": "pass",
+    "assessment": "The answer identifies a retrieved pickup below $15,000 with the correct asking price and seller condition label, although its wording is awkward."
+  },
+  "q6": {
+    "status": "needs_review",
+    "assessment": "The diesel specifications and Phnom Penh locations are supported, but saying a listing is currently available is too strong for a time-stamped marketplace snapshot."
+  },
+  "q7": {
+    "status": "fail",
+    "assessment": "The local model invents vehicle abbreviations and unsupported hybrid/manual-transmission comparisons. Retrieval covered both makes, but generation quality is unacceptable."
+  },
+  "q8": {
+    "status": "pass",
+    "assessment": "The answer is concise and accurately reports a retrieved 2012 Prius, its price, hybrid powertrain, efficiency, seating, and transmission."
+  },
+  "q9": {
+    "status": "pass",
+    "assessment": "The answer recommends a retrieved sports-classified listing below $50,000 and stays within the available price evidence, though it could compare more than one result."
+  }
+}

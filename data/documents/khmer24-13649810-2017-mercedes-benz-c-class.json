@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13649810-2017-mercedes-benz-c-class",
+  "title": "2017 Mercedes-Benz C-Class",
+  "text": "# 2017 Mercedes-Benz C-Class\n## Cambodian marketplace listing\n- Listing title: Mercedes Benz C300 coupeឆ្នាំ2017 Options ពិសេស.\n- Asking price: $44,500 USD.\n- Condition label: Used.\n- Location: Tuol Kouk, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Mercedes-Benz.\n- Model: C-Class.\n- Model year: 2017.\n- Body type: Coupe.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 19–30 mpg combined (EPA).\n- Cylinders: 4 or 6 or 8.\n- Engine displacement: 2 L or 3 L or 4 L.\n- Seating capacity: Usually 2–5; exact model/trim not identified.\n- Transmission: Automatic 7-spd or Automatic 9-spd.\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13649810",
+  "metadata": {
+    "listing_id": "13649810",
+    "year": 2017,
+    "model_year": 2017,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "price_usd": 44500,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Tuol Kouk, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Coupe",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "19–30 mpg combined (EPA)",
+    "cylinders": "4 or 6 or 8",
+    "displacement_l": "2 L or 3 L or 4 L",
+    "seats": "Usually 2–5; exact model/trim not identified",
+    "transmission": "Automatic 7-spd or Automatic 9-spd",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=37428&id=37461&id=37913",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/25-12-16/mercedes-benz-c300-coupe-2017-options--141100176586340524679818-b.jpg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13675989-2005-lexus-rx",
+  "title": "2005 Lexus RX",
+  "text": "# 2005 Lexus RX\n## Cambodian marketplace listing\n- Listing title: 2005 Lexus RX 300 SUV for Sale.\n- Asking price: $19,500 USD.\n- Condition label: Used.\n- Location: Ta Khmau, Kandal.\n- Province or municipality: Kandal.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Lexus.\n- Model: RX.\n- Model year: 2005.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 18–20 mpg combined (EPA).\n- Cylinders: 6.\n- Engine displacement: 3.3 L.\n- Seating capacity: Usually 5–8; exact model/trim not identified.\n- Transmission: Automatic (S5) or Automatic 5-spd.\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13675989",
+  "metadata": {
+    "listing_id": "13675989",
+    "year": 2005,
+    "model_year": 2005,
+    "make": "Lexus",
+    "model": "RX",
+    "price_usd": 19500,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Ta Khmau, Kandal",
+    "province": "Kandal",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "18–20 mpg combined (EPA)",
+    "cylinders": "6",
+    "displacement_l": "3.3 L",
+    "seats": "Usually 5–8; exact model/trim not identified",
+    "transmission": "Automatic (S5) or Automatic 5-spd",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=21318&id=21319&id=21433",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/26-06-21/2005-lexus-rx-300-suv-for-sale-937838178203391866974405-b.jpg"
+  }
+}

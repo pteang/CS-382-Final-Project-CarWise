@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13346191-toyota-land-cruiser-prado",
+  "title": "Toyota Land Cruiser Prado",
+  "text": "# Toyota Land Cruiser Prado\n## Cambodian marketplace listing\n- Listing title: Toyota Prado Diesel VXL.\n- Asking price: $29,300 USD.\n- Condition label: Used.\n- Location: Mean Chey, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Toyota.\n- Model: Land Cruiser Prado.\n- Model year: Not reported.\n- Body type: SUV.\n- Fuel or powertrain: Diesel.\n## Reference specifications\n- Fuel economy: Official figure unavailable: seller did not identify the exact engine/trim.\n- Cylinders: 4.\n- Engine displacement: 2.8 L turbo diesel.\n- Seating capacity: 7.\n- Transmission: 6-speed automatic.\n- Specification confidence: Model-family reference.\n- Specification source: Toyota Land Cruiser Prado model-family reference.\n- Specification note: The listing does not report a model year; specifications are a modern VXL reference only.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/toyota-prado-diesel-vxl-for-sale-adid-13346191",
+  "metadata": {
+    "listing_id": "13346191",
+    "year": null,
+    "model_year": null,
+    "make": "Toyota",
+    "model": "Land Cruiser Prado",
+    "price_usd": 29300,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Mean Chey, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "Official figure unavailable: seller did not identify the exact engine/trim",
+    "cylinders": "4",
+    "displacement_l": "2.8 L turbo diesel",
+    "seats": "7",
+    "transmission": "6-speed automatic",
+    "spec_source_name": "Toyota Land Cruiser Prado model-family reference",
+    "spec_source_url": "https://global.toyota/en/newsroom/toyota/39526684.html",
+    "spec_confidence": "Model-family reference",
+    "spec_note": "The listing does not report a model year; specifications are a modern VXL reference only.",
+    "image_url": "https://images.khmer24.co/26-03-28/toyota-prado-diesel-vxl-for-sale-104065177468446285711799-b.jpg"
+  }
+}

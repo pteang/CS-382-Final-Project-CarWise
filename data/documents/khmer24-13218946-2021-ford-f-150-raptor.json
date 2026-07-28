@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13218946-2021-ford-f-150-raptor",
+  "title": "2021 Ford F-150 Raptor",
+  "text": "# 2021 Ford F-150 Raptor\n## Cambodian marketplace listing\n- Listing title: Ford F-150 Raptor 2021.\n- Asking price: $99,000 USD.\n- Condition label: Used.\n- Location: Tuol Kouk, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Ford.\n- Model: F-150 Raptor.\n- Model year: 2021.\n- Body type: Pickup.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 15–16 mpg combined.\n- Cylinders: 6.\n- Engine displacement: 3.5 L twin-turbo.\n- Seating capacity: 5.\n- Transmission: 10-speed automatic.\n- Specification confidence: Exact model-year range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: Fuel economy varies with wheel and tire package.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/ford-f-150-raptor-2021-full-opinion-adid-13218946",
+  "metadata": {
+    "listing_id": "13218946",
+    "year": 2021,
+    "model_year": 2021,
+    "make": "Ford",
+    "model": "F-150 Raptor",
+    "price_usd": 99000,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Tuol Kouk, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Pickup",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "15–16 mpg combined",
+    "cylinders": "6",
+    "displacement_l": "3.5 L twin-turbo",
+    "seats": "5",
+    "transmission": "10-speed automatic",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=44367&id=44368",
+    "spec_confidence": "Exact model-year range",
+    "spec_note": "Fuel economy varies with wheel and tire package.",
+    "image_url": "https://images.khmer24.co/26-05-23/ford-f-150-raptor-2021-full-opinion--38770177952159121842353-b.jpg"
+  }
+}

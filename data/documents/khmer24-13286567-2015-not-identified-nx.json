@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13286567-2015-not-identified-nx",
+  "title": "2015 Not identified NX",
+  "text": "# 2015 Not identified NX\n## Cambodian marketplace listing\n- Listing title: NX200t 2015 F-sport.\n- Asking price: $34,800 USD.\n- Condition label: Used.\n- Location: Saensokh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Not identified.\n- Model: NX.\n- Model year: 2015.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Official figure unavailable: seller did not identify the exact engine/trim.\n- Cylinders: Varies by engine; exact trim not identified.\n- Engine displacement: Varies by engine; exact trim not identified.\n- Seating capacity: Usually 5–8; exact model/trim not identified.\n- Transmission: Varies by trim; exact gearbox not identified.\n- Specification confidence: Seller did not identify exact configuration.\n- Specification source: Khmer24 listing.\n- Specification note: The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13286567",
+  "metadata": {
+    "listing_id": "13286567",
+    "year": 2015,
+    "model_year": 2015,
+    "make": "Not identified",
+    "model": "NX",
+    "price_usd": 34800,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Saensokh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Official figure unavailable: seller did not identify the exact engine/trim",
+    "cylinders": "Varies by engine; exact trim not identified",
+    "displacement_l": "Varies by engine; exact trim not identified",
+    "seats": "Usually 5–8; exact model/trim not identified",
+    "transmission": "Varies by trim; exact gearbox not identified",
+    "spec_source_name": "Khmer24 listing",
+    "spec_source_url": "https://www.khmer24.com/en/post-adid-13286567",
+    "spec_confidence": "Seller did not identify exact configuration",
+    "spec_note": "The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.",
+    "image_url": "https://images.khmer24.co/26-03-14/nx200t-2015-f-sport-1251676177344670589922526-b.jpg"
+  }
+}

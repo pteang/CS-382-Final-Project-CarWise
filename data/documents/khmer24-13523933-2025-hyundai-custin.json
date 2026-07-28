@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13523933-2025-hyundai-custin",
+  "title": "2025 Hyundai Custin",
+  "text": "# 2025 Hyundai Custin\n## Cambodian marketplace listing\n- Listing title: Hyundai CUSTIN.\n- Asking price: $40,400 USD.\n- Condition label: New.\n- Location: Krong Siem Reab, Siem Reap.\n- Province or municipality: Siem Reap.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Hyundai.\n- Model: Custin.\n- Model year: 2025.\n- Body type: Sedan.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Official consumption varies by destination-market 1.5 T-GDI calibration.\n- Cylinders: 4.\n- Engine displacement: 1.5 L turbo gasoline.\n- Seating capacity: 7.\n- Transmission: 8-speed automatic.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Hyundai CUSTIN official brochure.\n- Specification note: Official Philippine-market family reference; verify the Cambodian import's calibration and equipment.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13523933",
+  "metadata": {
+    "listing_id": "13523933",
+    "year": 2025,
+    "model_year": 2025,
+    "make": "Hyundai",
+    "model": "Custin",
+    "price_usd": 40400,
+    "condition": "New",
+    "registration": "Not reported",
+    "location": "Krong Siem Reab, Siem Reap",
+    "province": "Siem Reap",
+    "body_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Official consumption varies by destination-market 1.5 T-GDI calibration",
+    "cylinders": "4",
+    "displacement_l": "1.5 L turbo gasoline",
+    "seats": "7",
+    "transmission": "8-speed automatic",
+    "spec_source_name": "Hyundai CUSTIN official brochure",
+    "spec_source_url": "https://www.hyundai.com/content/dam/hyundai/ph/en/data/marketing/brochure/product/custin/Custin-brochure-v2.pdf",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "Official Philippine-market family reference; verify the Cambodian import's calibration and equipment.",
+    "image_url": "https://images.khmer24.co/26-05-16/hyundai-custin-1278569177890226879331591-b.jpg"
+  }
+}

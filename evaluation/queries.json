@@ -1,0 +1,56 @@
+[
+  {
+    "id": "q1",
+    "query": "Which used SUVs in Phnom Penh are listed below $20,000?",
+    "expected_terms": ["Asking price", "Used", "SUV", "Phnom Penh"],
+    "notes": "Checks budget, condition, body type, and Cambodian location constraints."
+  },
+  {
+    "id": "q2",
+    "query": "Recommend a Toyota Prius under $18,000.",
+    "expected_terms": ["Toyota", "Prius", "Hybrid"],
+    "notes": "Checks make/model matching and a strict upper budget."
+  },
+  {
+    "id": "q3",
+    "query": "Find an electric car listed in Cambodia under $30,000.",
+    "expected_terms": ["Electricity", "Asking price"],
+    "notes": "Checks electric powertrain and budget matching."
+  },
+  {
+    "id": "q4",
+    "query": "Show Kia hatchbacks under $10,000.",
+    "expected_terms": ["Kia", "Hatchback"],
+    "notes": "Checks make, body type, and budget constraints."
+  },
+  {
+    "id": "q5",
+    "query": "Which pickup trucks are listed below $15,000?",
+    "expected_terms": ["Pickup", "Asking price"],
+    "notes": "Checks pickup classification and strict price filtering."
+  },
+  {
+    "id": "q6",
+    "query": "Show diesel vehicles for sale in Phnom Penh.",
+    "expected_terms": ["Diesel", "Phnom Penh"],
+    "notes": "Checks fuel type and location retrieval."
+  },
+  {
+    "id": "q7",
+    "query": "Compare used Toyota and Lexus cars under $20,000.",
+    "expected_terms": ["Toyota", "Lexus", "Used"],
+    "notes": "Checks multi-brand diversification plus a budget."
+  },
+  {
+    "id": "q8",
+    "query": "Show 2012 hybrid cars under $18,000.",
+    "expected_terms": ["2012", "Hybrid", "Asking price"],
+    "notes": "Checks exact year, powertrain, and budget constraints."
+  },
+  {
+    "id": "q9",
+    "query": "Show sports cars under $50,000.",
+    "expected_terms": ["Sports", "Asking price"],
+    "notes": "Checks dedicated sports-car classification and budget filtering."
+  }
+]

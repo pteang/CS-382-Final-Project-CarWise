@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13807663-2001-lexus-rx-300",
+  "title": "2001 Lexus RX 300",
+  "text": "# 2001 Lexus RX 300\n## Cambodian marketplace listing\n- Listing title: Lexus RX300 2001.\n- Asking price: $11,500 USD.\n- Condition label: Used.\n- Location: Por Sen Chey, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Lexus.\n- Model: RX 300.\n- Model year: 2001.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 18 mpg combined.\n- Cylinders: 6.\n- Engine displacement: 3.0 L.\n- Seating capacity: 5.\n- Transmission: 4-speed automatic.\n- Specification confidence: Exact model-year range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: Fuel economy varies slightly between front-wheel and all-wheel drive.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/lexus-rx300-2001-adid-13807663",
+  "metadata": {
+    "listing_id": "13807663",
+    "year": 2001,
+    "model_year": 2001,
+    "make": "Lexus",
+    "model": "RX 300",
+    "price_usd": 11500,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Por Sen Chey, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "18 mpg combined",
+    "cylinders": "6",
+    "displacement_l": "3.0 L",
+    "seats": "5",
+    "transmission": "4-speed automatic",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=16904&id=16905",
+    "spec_confidence": "Exact model-year range",
+    "spec_note": "Fuel economy varies slightly between front-wheel and all-wheel drive.",
+    "image_url": "https://images.khmer24.co/26-07-24/-lexus-rx300-2001-2-11500-0966074444-416714178490603422578999-b.jpg"
+  }
+}

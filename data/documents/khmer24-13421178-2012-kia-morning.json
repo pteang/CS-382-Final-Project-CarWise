@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13421178-2012-kia-morning",
+  "title": "2012 Kia Morning",
+  "text": "# 2012 Kia Morning\n## Cambodian marketplace listing\n- Listing title: Kia Morning 2012 full 8100$ ចរចារ.\n- Asking price: $8,100 USD.\n- Condition label: Used.\n- Location: Saensokh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Kia.\n- Model: Morning.\n- Model year: 2012.\n- Body type: Hatchback.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 52.3–64.2 UK mpg combined (official Picanto family configurations).\n- Cylinders: 3 or 4.\n- Engine displacement: 1.0 L or 1.25 L.\n- Seating capacity: 5.\n- Transmission: 5-speed manual, 4-speed automatic, or 5-speed AMT.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Kia Picanto official specification.\n- Specification note: Kia Morning is sold as Picanto in other markets. Figures are a model-family range; confirm the Cambodian import's engine.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13421178",
+  "metadata": {
+    "listing_id": "13421178",
+    "year": 2012,
+    "model_year": 2012,
+    "make": "Kia",
+    "model": "Morning",
+    "price_usd": 8100,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Saensokh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Hatchback",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "52.3–64.2 UK mpg combined (official Picanto family configurations)",
+    "cylinders": "3 or 4",
+    "displacement_l": "1.0 L or 1.25 L",
+    "seats": "5",
+    "transmission": "5-speed manual, 4-speed automatic, or 5-speed AMT",
+    "spec_source_name": "Kia Picanto official specification",
+    "spec_source_url": "https://www.kia.com/content/dam/kwcms/kme/uk/en/assets/vehicles/All-New%20Picanto/Specifications/all-new-picanto-specification.PDF",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "Kia Morning is sold as Picanto in other markets. Figures are a model-family range; confirm the Cambodian import's engine.",
+    "image_url": "https://images.khmer24.co/26-04-21/kia-morning-2012-full-8100--500708177673803438323911-b.jpg"
+  }
+}

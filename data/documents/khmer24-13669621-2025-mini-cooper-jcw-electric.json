@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13669621-2025-mini-cooper-jcw-electric",
+  "title": "2025 MINI Cooper JCW Electric",
+  "text": "# 2025 MINI Cooper JCW Electric\n## Cambodian marketplace listing\n- Listing title: MINI Cooper JCW Electric 2025.\n- Asking price: $37,500 USD.\n- Condition label: Used.\n- Location: Chroy Changvar, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: MINI.\n- Model: Cooper JCW Electric.\n- Model year: 2025.\n- Body type: Hatchback.\n- Fuel or powertrain: Electricity.\n## Reference specifications\n- Fuel economy: Range unavailable: seller did not identify the exact battery/model version.\n- Cylinders: N/A (electric).\n- Engine displacement: N/A (electric).\n- Seating capacity: 4.\n- Transmission: Single-speed electric drive.\n- Specification confidence: Model-family reference.\n- Specification source: MINI JCW Electric model-family reference.\n- Specification note: Verify the exact battery and market-specific driving range of the imported vehicle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/mini-cooper-john-works-electric-2025-new-98-adid-13669621",
+  "metadata": {
+    "listing_id": "13669621",
+    "year": 2025,
+    "model_year": 2025,
+    "make": "MINI",
+    "model": "Cooper JCW Electric",
+    "price_usd": 37500,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Chroy Changvar, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Hatchback",
+    "fuel_type": "Electricity",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Range unavailable: seller did not identify the exact battery/model version",
+    "cylinders": "N/A (electric)",
+    "displacement_l": "N/A (electric)",
+    "seats": "4",
+    "transmission": "Single-speed electric drive",
+    "spec_source_name": "MINI JCW Electric model-family reference",
+    "spec_source_url": "https://www.mini.com/en_MS/home/range/mini-cooper/john-cooper-works.html",
+    "spec_confidence": "Model-family reference",
+    "spec_note": "Verify the exact battery and market-specific driving range of the imported vehicle.",
+    "image_url": "https://images.khmer24.co/26-06-19/mini-cooper-john-works-electric-2025-new-98--371744178187956224757119-b.jpg"
+  }
+}

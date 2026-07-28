@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13809866-2017-lexus-nx",
+  "title": "2017 Lexus NX",
+  "text": "# 2017 Lexus NX\n## Cambodian marketplace listing\n- Listing title: Lexus Nx200t F-Sports 2017 5ប៊ូតុង​ គុជ​3 ប៉ុង2 ក្នុង​ឈឺរី🍒.\n- Asking price: $42,900 USD.\n- Condition label: Used.\n- Location: Prampir Meakkakra, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Lexus.\n- Model: NX.\n- Model year: 2017.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 24–31 mpg combined (EPA).\n- Cylinders: 4.\n- Engine displacement: 2 L or 2.5 L.\n- Seating capacity: Usually 5–8; exact model/trim not identified.\n- Transmission: Automatic (AV-S6) or Automatic (S6).\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13809866",
+  "metadata": {
+    "listing_id": "13809866",
+    "year": 2017,
+    "model_year": 2017,
+    "make": "Lexus",
+    "model": "NX",
+    "price_usd": 42900,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Prampir Meakkakra, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "24–31 mpg combined (EPA)",
+    "cylinders": "4",
+    "displacement_l": "2 L or 2.5 L",
+    "seats": "Usually 5–8; exact model/trim not identified",
+    "transmission": "Automatic (AV-S6) or Automatic (S6)",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=38280&id=38285&id=38286",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/26-07-25/lexus-nx200t-f-sports-2017-5-3-2-ud83c-udf52-419007178496428228790288-b.jpg"
+  }
+}

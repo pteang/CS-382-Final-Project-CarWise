@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13759750-1997-toyota-camry",
+  "title": "1997 Toyota Camry",
+  "text": "# 1997 Toyota Camry\n## Cambodian marketplace listing\n- Listing title: Toyota Camry 1997 with gas system.\n- Asking price: $5,400 USD.\n- Condition label: Used.\n- Location: Mongkol Borei, Banteay Meanchey.\n- Province or municipality: Banteay Meanchey.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Toyota.\n- Model: Camry.\n- Model year: 1997.\n- Body type: Sedan.\n- Fuel or powertrain: LPG or Gasoline.\n## Reference specifications\n- Fuel economy: 19–23 mpg combined on gasoline.\n- Cylinders: 4 or 6.\n- Engine displacement: 2.2 L or 3.0 L.\n- Seating capacity: 5.\n- Transmission: 4-speed automatic or 5-speed manual.\n- Specification confidence: Model-year range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: The listing does not identify engine or transmission; LPG use changes consumption.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/camry-1997-adid-13759750",
+  "metadata": {
+    "listing_id": "13759750",
+    "year": 1997,
+    "model_year": 1997,
+    "make": "Toyota",
+    "model": "Camry",
+    "price_usd": 5400,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Mongkol Borei, Banteay Meanchey",
+    "province": "Banteay Meanchey",
+    "body_type": "Sedan",
+    "fuel_type": "LPG or Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "19–23 mpg combined on gasoline",
+    "cylinders": "4 or 6",
+    "displacement_l": "2.2 L or 3.0 L",
+    "seats": "5",
+    "transmission": "4-speed automatic or 5-speed manual",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=13605&id=13607",
+    "spec_confidence": "Model-year range",
+    "spec_note": "The listing does not identify engine or transmission; LPG use changes consumption.",
+    "image_url": "https://images.khmer24.co/26-07-12/-camry-1997--663166178382927458883622-b.jpg"
+  }
+}

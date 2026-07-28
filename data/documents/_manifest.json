@@ -1,0 +1,12 @@
+{
+  "dataset_name": "CarWise Cambodian marketplace listing snapshot",
+  "dataset_page": "https://www.khmer24.com/c-cars-for-sale",
+  "source": "Public Khmer24 cars-for-sale listing cards",
+  "observed_dates": [
+    "2026-07-26",
+    "2026-07-28"
+  ],
+  "document_count": 600,
+  "method": "One document per unique public listing with an identifiable vehicle. Seller contact details were excluded. Vehicle types and powertrains were normalized conservatively from the listing title.",
+  "limitations": "Asking prices and availability are time-sensitive seller claims. The snapshot does not verify safety, reliability, ownership, mechanical condition, or fair market value."
+}

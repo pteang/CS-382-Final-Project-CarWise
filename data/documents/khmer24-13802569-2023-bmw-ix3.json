@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13802569-2023-bmw-ix3",
+  "title": "2023 BMW iX3",
+  "text": "# 2023 BMW iX3\n## Cambodian marketplace listing\n- Listing title: BMW iX3 2023 Facelift Pioneer Edition.\n- Asking price: $47,800 USD.\n- Condition label: Used.\n- Location: Saensokh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: BMW.\n- Model: iX3.\n- Model year: 2023.\n- Body type: Sedan.\n- Fuel or powertrain: Electricity.\n## Reference specifications\n- Fuel economy: Range unavailable: seller did not identify the exact battery/model version.\n- Cylinders: N/A (electric).\n- Engine displacement: N/A (electric).\n- Seating capacity: Usually 4–5; exact model/trim not identified.\n- Transmission: Single-speed electric drive.\n- Specification confidence: Seller did not identify exact configuration.\n- Specification source: Khmer24 listing.\n- Specification note: The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13802569",
+  "metadata": {
+    "listing_id": "13802569",
+    "year": 2023,
+    "model_year": 2023,
+    "make": "BMW",
+    "model": "iX3",
+    "price_usd": 47800,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Saensokh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Electricity",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Range unavailable: seller did not identify the exact battery/model version",
+    "cylinders": "N/A (electric)",
+    "displacement_l": "N/A (electric)",
+    "seats": "Usually 4–5; exact model/trim not identified",
+    "transmission": "Single-speed electric drive",
+    "spec_source_name": "Khmer24 listing",
+    "spec_source_url": "https://www.khmer24.com/en/post-adid-13802569",
+    "spec_confidence": "Seller did not identify exact configuration",
+    "spec_note": "The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.",
+    "image_url": "https://images.khmer24.co/26-07-23/bmw-ix3-2023-facelift-pioneer-edition-1122826178479270048332302-b.jpg"
+  }
+}

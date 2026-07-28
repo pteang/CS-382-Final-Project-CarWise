@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13795313-2020-suzuki-celerio",
+  "title": "2020 Suzuki Celerio",
+  "text": "# 2020 Suzuki Celerio\n## Cambodian marketplace listing\n- Listing title: ឡានលក់ Suzuki Celerio 2020.\n- Asking price: $6,900 USD.\n- Condition label: Used.\n- Location: Mean Chey, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Suzuki.\n- Model: Celerio.\n- Model year: 2020.\n- Body type: Sedan.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Up to 5.0 L/100 km (official regional model-family figure).\n- Cylinders: 3.\n- Engine displacement: 1.0 L.\n- Seating capacity: 5.\n- Transmission: 5-speed manual or Auto Gear Shift.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Suzuki Global Celerio specification.\n- Specification note: Celerio figures vary by generation and destination market.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13795313",
+  "metadata": {
+    "listing_id": "13795313",
+    "year": 2020,
+    "model_year": 2020,
+    "make": "Suzuki",
+    "model": "Celerio",
+    "price_usd": 6900,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Mean Chey, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Up to 5.0 L/100 km (official regional model-family figure)",
+    "cylinders": "3",
+    "displacement_l": "1.0 L",
+    "seats": "5",
+    "transmission": "5-speed manual or Auto Gear Shift",
+    "spec_source_name": "Suzuki Global Celerio specification",
+    "spec_source_url": "https://www.globalsuzuki.com/globalnews/2021/1110.html",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "Celerio figures vary by generation and destination market.",
+    "image_url": "https://images.khmer24.co/26-07-21/-suzuki-celerio-2020-930755178462618977451107-b.jpg"
+  }
+}

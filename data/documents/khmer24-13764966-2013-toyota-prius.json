@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13764966-2013-toyota-prius",
+  "title": "2013 Toyota Prius",
+  "text": "# 2013 Toyota Prius\n## Cambodian marketplace listing\n- Listing title: Toyota Prius 2013 Option 3.\n- Asking price: $17,500 USD.\n- Condition label: Used.\n- Location: Por Sen Chey, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Tax Paper.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Toyota.\n- Model: Prius.\n- Model year: 2013.\n- Body type: Hatchback.\n- Fuel or powertrain: Hybrid.\n## Reference specifications\n- Fuel economy: 48 mpg combined.\n- Cylinders: 4.\n- Engine displacement: 1.8 L.\n- Seating capacity: 5.\n- Transmission: e-CVT.\n- Specification confidence: Exact model-year reference.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: Reference is a U.S.-market Prius configuration.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/toyota-prius-2013-op3-adid-13764966",
+  "metadata": {
+    "listing_id": "13764966",
+    "year": 2013,
+    "model_year": 2013,
+    "make": "Toyota",
+    "model": "Prius",
+    "price_usd": 17500,
+    "condition": "Used",
+    "registration": "Tax Paper",
+    "location": "Por Sen Chey, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Hatchback",
+    "fuel_type": "Hybrid",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "48 mpg combined",
+    "cylinders": "4",
+    "displacement_l": "1.8 L",
+    "seats": "5",
+    "transmission": "e-CVT",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=33324",
+    "spec_confidence": "Exact model-year reference",
+    "spec_note": "Reference is a U.S.-market Prius configuration.",
+    "image_url": "https://images.khmer24.co/26-07-04/toyota-prius-2013-op3--122141178316239375961692-e.jpg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13543470-2025-hyundai-staria",
+  "title": "2025 Hyundai Staria",
+  "text": "# 2025 Hyundai Staria\n## Cambodian marketplace listing\n- Listing title: Hyundai Staria lounge.\n- Asking price: $56,400 USD.\n- Condition label: New.\n- Location: Doun Penh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Hyundai.\n- Model: Staria.\n- Model year: 2025.\n- Body type: MPV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Official consumption varies by 2.2 diesel or 3.5 gasoline market trim.\n- Cylinders: 4 or 6.\n- Engine displacement: 2.2 L diesel or 3.5 L gasoline.\n- Seating capacity: 3, 7, 10, or 11 depending on configuration.\n- Transmission: 6-speed manual or 8-speed automatic.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Hyundai STARIA official brochure.\n- Specification note: The seller must confirm whether the listing is a passenger or cargo version and identify its market specification.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13543470",
+  "metadata": {
+    "listing_id": "13543470",
+    "year": 2025,
+    "model_year": 2025,
+    "make": "Hyundai",
+    "model": "Staria",
+    "price_usd": 56400,
+    "condition": "New",
+    "registration": "Not reported",
+    "location": "Doun Penh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "MPV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Official consumption varies by 2.2 diesel or 3.5 gasoline market trim",
+    "cylinders": "4 or 6",
+    "displacement_l": "2.2 L diesel or 3.5 L gasoline",
+    "seats": "3, 7, 10, or 11 depending on configuration",
+    "transmission": "6-speed manual or 8-speed automatic",
+    "spec_source_name": "Hyundai STARIA official brochure",
+    "spec_source_url": "https://www.hyundai.com/content/dam/hyundai/ph/en/data/marketing/brochure/product/staria-2021/staria-0702622.pdf",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "The seller must confirm whether the listing is a passenger or cargo version and identify its market specification.",
+    "image_url": "https://images.khmer24.co/26-05-20/hyundai-staria-lounge-914237177926017576981314-b.jpg"
+  }
+}

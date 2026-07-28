@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13715137-2026-gac-gn6-pro",
+  "title": "2026 GAC GN6 Pro",
+  "text": "# 2026 GAC GN6 Pro\n## Cambodian marketplace listing\n- Listing title: 2026 GN6.PRO company car with 8000 km.\n- Asking price: $25,000 USD.\n- Condition label: Used.\n- Location: Sen Sok, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: GAC.\n- Model: GN6 Pro.\n- Model year: 2026.\n- Body type: MPV.\n- Fuel or powertrain: Not reported.\n## Reference specifications\n- Fuel economy: 7.5 L/100 km.\n- Cylinders: 4.\n- Engine displacement: 1.5 L turbo.\n- Seating capacity: 7.\n- Transmission: 7-speed dual-clutch.\n- Specification confidence: Model-family reference.\n- Specification source: GAC M6 model-family specification.\n- Specification note: GN6/M6 specification; the listing does not identify the exact trim.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/2026-gn6pro-8000km-adid-13715137",
+  "metadata": {
+    "listing_id": "13715137",
+    "year": 2026,
+    "model_year": 2026,
+    "make": "GAC",
+    "model": "GN6 Pro",
+    "price_usd": 25000,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Sen Sok, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "MPV",
+    "fuel_type": "Not reported",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "7.5 L/100 km",
+    "cylinders": "4",
+    "displacement_l": "1.5 L turbo",
+    "seats": "7",
+    "transmission": "7-speed dual-clutch",
+    "spec_source_name": "GAC M6 model-family specification",
+    "spec_source_url": "https://www.gacgroup.com/en/mpv/gac-m6",
+    "spec_confidence": "Model-family reference",
+    "spec_note": "GN6/M6 specification; the listing does not identify the exact trim.",
+    "image_url": "https://images.khmer24.co/26-07-01/gn6-pro-8000km--91565178287214431135919-b.jpg"
+  }
+}

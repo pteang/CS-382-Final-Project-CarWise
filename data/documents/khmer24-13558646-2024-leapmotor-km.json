@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13558646-2024-leapmotor-km",
+  "title": "2024 Leapmotor km",
+  "text": "# 2024 Leapmotor km\n## Cambodian marketplace listing\n- Listing title: LEAPMOTOR C01 625km ថ្មី 💯  ក្នុងស្តុក.\n- Asking price: $26,800 USD.\n- Condition label: New.\n- Location: Mean Chey, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Leapmotor.\n- Model: km.\n- Model year: 2024.\n- Body type: Sedan.\n- Fuel or powertrain: Electricity.\n## Reference specifications\n- Fuel economy: Seller advertises 625 km range.\n- Cylinders: N/A (electric).\n- Engine displacement: N/A (electric).\n- Seating capacity: Usually 4–5; exact model/trim not identified.\n- Transmission: Single-speed electric drive.\n- Specification confidence: Seller did not identify exact configuration.\n- Specification source: Khmer24 listing.\n- Specification note: The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13558646",
+  "metadata": {
+    "listing_id": "13558646",
+    "year": 2024,
+    "model_year": 2024,
+    "make": "Leapmotor",
+    "model": "km",
+    "price_usd": 26800,
+    "condition": "New",
+    "registration": "Not reported",
+    "location": "Mean Chey, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Electricity",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Seller advertises 625 km range",
+    "cylinders": "N/A (electric)",
+    "displacement_l": "N/A (electric)",
+    "seats": "Usually 4–5; exact model/trim not identified",
+    "transmission": "Single-speed electric drive",
+    "spec_source_name": "Khmer24 listing",
+    "spec_source_url": "https://www.khmer24.com/en/post-adid-13558646",
+    "spec_confidence": "Seller did not identify exact configuration",
+    "spec_note": "The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.",
+    "image_url": "https://images.khmer24.co/26-05-23/leapmotor-c01-625km-ud83d-udcaf--784933177955269031873315-b.jpg"
+  }
+}

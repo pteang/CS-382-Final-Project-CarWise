@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13628960-2022-jetour-x95",
+  "title": "2022 Jetour X95",
+  "text": "# 2022 Jetour X95\n## Cambodian marketplace listing\n- Listing title: Jetour X95 2022.\n- Asking price: $28,500 USD.\n- Condition label: Used.\n- Location: Chbar Ampov, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Jetour.\n- Model: X95.\n- Model year: 2022.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 8.1 L/100 km.\n- Cylinders: 4.\n- Engine displacement: 1.6 L turbo.\n- Seating capacity: 7.\n- Transmission: 7-speed dual-clutch.\n- Specification confidence: Model-year reference.\n- Specification source: Jetour X95 technical reference.\n- Specification note: The listing does not identify trim; published X95 engines vary by market.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/jetour-x95-2022-adid-13628960",
+  "metadata": {
+    "listing_id": "13628960",
+    "year": 2022,
+    "model_year": 2022,
+    "make": "Jetour",
+    "model": "X95",
+    "price_usd": 28500,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Chbar Ampov, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "8.1 L/100 km",
+    "cylinders": "4",
+    "displacement_l": "1.6 L turbo",
+    "seats": "7",
+    "transmission": "7-speed dual-clutch",
+    "spec_source_name": "Jetour X95 technical reference",
+    "spec_source_url": "https://www.auto-data.net/en/jetour-x95-generation-10542",
+    "spec_confidence": "Model-year reference",
+    "spec_note": "The listing does not identify trim; published X95 engines vary by market.",
+    "image_url": "https://images.khmer24.co/26-06-10/--499186178105354959773576-b.jpg"
+  }
+}

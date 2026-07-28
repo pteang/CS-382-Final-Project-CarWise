@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13605827-2023-bmw-7-series",
+  "title": "2023 BMW 7 Series",
+  "text": "# 2023 BMW 7 Series\n## Cambodian marketplace listing\n- Listing title: BMW 740i 2023 Plate number.\n- Asking price: $148,000 USD.\n- Condition label: Used.\n- Location: Doun Penh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: BMW.\n- Model: 7 Series.\n- Model year: 2023.\n- Body type: Sedan.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 21–27 mpg combined (EPA).\n- Cylinders: 6 or 8.\n- Engine displacement: 3 L or 4.4 L.\n- Seating capacity: Usually 4–5; exact model/trim not identified.\n- Transmission: Automatic (S8).\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13605827",
+  "metadata": {
+    "listing_id": "13605827",
+    "year": 2023,
+    "model_year": 2023,
+    "make": "BMW",
+    "model": "7 Series",
+    "price_usd": 148000,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Doun Penh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "21–27 mpg combined (EPA)",
+    "cylinders": "6 or 8",
+    "displacement_l": "3 L or 4.4 L",
+    "seats": "Usually 4–5; exact model/trim not identified",
+    "transmission": "Automatic (S8)",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=45663&id=45664",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/26-06-04/bmw-740i-2023-plate-number-1288126178054810219733112-b.jpg"
+  }
+}

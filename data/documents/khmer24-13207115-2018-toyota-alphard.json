@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13207115-2018-toyota-alphard",
+  "title": "2018 Toyota Alphard",
+  "text": "# 2018 Toyota Alphard\n## Cambodian marketplace listing\n- Listing title: Alphard 2018 Hybrid Full option ឡេីងគ្រឿងឆ្វេងសុីន.\n- Asking price: $59,800 USD.\n- Condition label: Used.\n- Location: Ruessei Kaev, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Toyota.\n- Model: Alphard.\n- Model year: 2018.\n- Body type: MPV.\n- Fuel or powertrain: Hybrid.\n## Reference specifications\n- Fuel economy: 9.5–19.4 km/L (official Japanese test cycles; powertrain dependent).\n- Cylinders: 4 or 6.\n- Engine displacement: 2.4 L, 2.5 L, or 3.5 L.\n- Seating capacity: 6–8 depending on grade.\n- Transmission: Super CVT-i, e-CVT, or 6-speed automatic.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: Toyota Global Newsroom.\n- Specification note: Official Alphard family figures span gasoline and hybrid grades. Confirm the imported vehicle's grade and test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13207115",
+  "metadata": {
+    "listing_id": "13207115",
+    "year": 2018,
+    "model_year": 2018,
+    "make": "Toyota",
+    "model": "Alphard",
+    "price_usd": 59800,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Ruessei Kaev, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "MPV",
+    "fuel_type": "Hybrid",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "9.5–19.4 km/L (official Japanese test cycles; powertrain dependent)",
+    "cylinders": "4 or 6",
+    "displacement_l": "2.4 L, 2.5 L, or 3.5 L",
+    "seats": "6–8 depending on grade",
+    "transmission": "Super CVT-i, e-CVT, or 6-speed automatic",
+    "spec_source_name": "Toyota Global Newsroom",
+    "spec_source_url": "https://global.toyota/en/newsroom/toyota/23310520.html",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "Official Alphard family figures span gasoline and hybrid grades. Confirm the imported vehicle's grade and test cycle.",
+    "image_url": "https://images.khmer24.co/26-02-21/alphard-2018-hybrid-full-option--504031177168076433828915-b.jpg"
+  }
+}

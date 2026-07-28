@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13668034-2026-ford-ranger",
+  "title": "2026 Ford Ranger",
+  "text": "# 2026 Ford Ranger\n## Cambodian marketplace listing\n- Listing title: Ford Ranger Wildtrak 2026.\n- Asking price: $51,900 USD.\n- Condition label: Used.\n- Location: Saensokh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Ford.\n- Model: Ranger.\n- Model year: 2026.\n- Body type: Pickup.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 17–23 mpg combined (EPA).\n- Cylinders: 4 or 6.\n- Engine displacement: 2.3 L or 2.7 L or 3 L.\n- Seating capacity: 5 for double-cab passenger configuration.\n- Transmission: Automatic (S10).\n- Specification confidence: Exact year/make/model EPA range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13668034",
+  "metadata": {
+    "listing_id": "13668034",
+    "year": 2026,
+    "model_year": 2026,
+    "make": "Ford",
+    "model": "Ranger",
+    "price_usd": 51900,
+    "condition": "Used",
+    "registration": "Not reported",
+    "location": "Saensokh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Pickup",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "17–23 mpg combined (EPA)",
+    "cylinders": "4 or 6",
+    "displacement_l": "2.3 L or 2.7 L or 3 L",
+    "seats": "5 for double-cab passenger configuration",
+    "transmission": "Automatic (S10)",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50095&id=50105&id=50106",
+    "spec_confidence": "Exact year/make/model EPA range",
+    "spec_note": "EPA values cover matching U.S.-market configurations. The imported Cambodian trim may use a different engine, transmission, battery, or test cycle.",
+    "image_url": "https://images.khmer24.co/26-06-19/ford-ranger-wildtrak-2026-1038597178185275180390165-b.jpg"
+  }
+}

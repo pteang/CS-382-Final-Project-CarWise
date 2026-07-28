@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13768999-2025-honda-e-np2-advance",
+  "title": "2025 Honda e:NP2 Advance",
+  "text": "# 2025 Honda e:NP2 Advance\n## Cambodian marketplace listing\n- Listing title: Honda e:NP2 Advance 2025.\n- Asking price: $20,900 USD.\n- Condition label: New.\n- Location: Dangkor, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Honda.\n- Model: e:NP2 Advance.\n- Model year: 2025.\n- Body type: SUV.\n- Fuel or powertrain: Electricity.\n## Reference specifications\n- Fuel economy: Range unavailable: seller did not identify the exact battery/model version.\n- Cylinders: N/A (electric).\n- Engine displacement: N/A (electric).\n- Seating capacity: 5.\n- Transmission: Single-speed electric drive.\n- Specification confidence: Model-family reference.\n- Specification source: Khmer24 listing and model-family EV reference.\n- Specification note: The seller reports about 4000 km of use but does not identify the battery or certified driving range.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/4-2025-honda-enp2-advance-adid-13768999",
+  "metadata": {
+    "listing_id": "13768999",
+    "year": 2025,
+    "model_year": 2025,
+    "make": "Honda",
+    "model": "e:NP2 Advance",
+    "price_usd": 20900,
+    "condition": "New",
+    "registration": "Plate Number",
+    "location": "Dangkor, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Electricity",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Range unavailable: seller did not identify the exact battery/model version",
+    "cylinders": "N/A (electric)",
+    "displacement_l": "N/A (electric)",
+    "seats": "5",
+    "transmission": "Single-speed electric drive",
+    "spec_source_name": "Khmer24 listing and model-family EV reference",
+    "spec_source_url": "https://www.khmer24.com/km/4-2025-honda-enp2-advance-adid-13768999",
+    "spec_confidence": "Model-family reference",
+    "spec_note": "The seller reports about 4000 km of use but does not identify the battery or certified driving range.",
+    "image_url": "https://images.khmer24.co/26-07-14/-4-2025-honda-enp2-advance-advance-1280029178401838667371900-b.jpg"
+  }
+}

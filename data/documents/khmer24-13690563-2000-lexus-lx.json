@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13690563-2000-lexus-lx",
+  "title": "2000 Lexus LX",
+  "text": "# 2000 Lexus LX\n## Cambodian marketplace listing\n- Listing title: Lexus LX 2000.\n- Asking price: $8,700 USD.\n- Condition label: Used.\n- Location: Mean Chey, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Lexus.\n- Model: LX.\n- Model year: 2000.\n- Body type: SUV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 13 mpg combined.\n- Cylinders: 8.\n- Engine displacement: 4.7 L.\n- Seating capacity: 8.\n- Transmission: 4-speed automatic.\n- Specification confidence: Exact model-year reference.\n- Specification source: U.S. DOE/EPA and Lexus LX 470 reference.\n- Specification note: The listing says Lexus LX; specification assumes the 2000 LX 470.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/lexus-lx-2000-adid-13690563",
+  "metadata": {
+    "listing_id": "13690563",
+    "year": 2000,
+    "model_year": 2000,
+    "make": "Lexus",
+    "model": "LX",
+    "price_usd": 8700,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Mean Chey, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "SUV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "13 mpg combined",
+    "cylinders": "8",
+    "displacement_l": "4.7 L",
+    "seats": "8",
+    "transmission": "4-speed automatic",
+    "spec_source_name": "U.S. DOE/EPA and Lexus LX 470 reference",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=16366",
+    "spec_confidence": "Exact model-year reference",
+    "spec_note": "The listing says Lexus LX; specification assumes the 2000 LX 470.",
+    "image_url": "https://images.khmer24.co/26-06-24/--702969178230356080256226-c.jpg"
+  }
+}

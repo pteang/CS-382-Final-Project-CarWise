@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13571660-2026-not-identified-stargazer-mpv",
+  "title": "2026 Not identified Stargazer MPV",
+  "text": "# 2026 Not identified Stargazer MPV\n## Cambodian marketplace listing\n- Listing title: Stargazer MPV 7កៅអី 2026.\n- Asking price: $29,900 USD.\n- Condition label: New.\n- Location: Doun Penh, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Not identified.\n- Model: Stargazer MPV.\n- Model year: 2026.\n- Body type: MPV.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: Official figure unavailable: seller did not identify the exact engine/trim.\n- Cylinders: Varies by engine; exact trim not identified.\n- Engine displacement: Varies by engine; exact trim not identified.\n- Seating capacity: Usually 5–11; exact seating layout not identified.\n- Transmission: Varies by trim; exact gearbox not identified.\n- Specification confidence: Seller did not identify exact configuration.\n- Specification source: Khmer24 listing.\n- Specification note: The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13571660",
+  "metadata": {
+    "listing_id": "13571660",
+    "year": 2026,
+    "model_year": 2026,
+    "make": "Not identified",
+    "model": "Stargazer MPV",
+    "price_usd": 29900,
+    "condition": "New",
+    "registration": "Not reported",
+    "location": "Doun Penh, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "MPV",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Official figure unavailable: seller did not identify the exact engine/trim",
+    "cylinders": "Varies by engine; exact trim not identified",
+    "displacement_l": "Varies by engine; exact trim not identified",
+    "seats": "Usually 5–11; exact seating layout not identified",
+    "transmission": "Varies by trim; exact gearbox not identified",
+    "spec_source_name": "Khmer24 listing",
+    "spec_source_url": "https://www.khmer24.com/en/post-adid-13571660",
+    "spec_confidence": "Seller did not identify exact configuration",
+    "spec_note": "The marketplace listing lacks enough model, engine, battery, or trim detail for a responsible numeric claim. The card states the limitation instead of inventing data.",
+    "image_url": "https://images.khmer24.co/26-05-27/stargazer-mpv-7-2026-477448177984833095024517-b.jpg"
+  }
+}

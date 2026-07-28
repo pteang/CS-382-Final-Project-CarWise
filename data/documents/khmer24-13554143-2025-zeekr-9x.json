@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13554143-2025-zeekr-9x",
+  "title": "2025 Zeekr 9X",
+  "text": "# 2025 Zeekr 9X\n## Cambodian marketplace listing\n- Listing title: Zeekr 9X Telegram 0965555881.\n- Asking price: $148,000 USD.\n- Condition label: New.\n- Location: Chbar Ampov, Phnom Penh.\n- Province or municipality: Phnom Penh.\n- Registration or import-paper label: Not reported.\n- Listing observed: 2026-07-28.\n## Vehicle details\n- Make: Zeekr.\n- Model: 9X.\n- Model year: 2025.\n- Body type: Sedan.\n- Fuel or powertrain: Plug-in Hybrid.\n## Reference specifications\n- Fuel economy: Up to 380 km CLTC pure-electric range.\n- Cylinders: 4.\n- Engine displacement: 2.0 L turbo gasoline hybrid engine.\n- Seating capacity: 6.\n- Transmission: SEA Super Hybrid electric-drive system.\n- Specification confidence: Official manufacturer model-family range.\n- Specification source: ZEEKR 9X official release.\n- Specification note: The 9X is a plug-in hybrid, not a battery-only EV. Official range uses China's CLTC cycle and varies by battery/trim.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/en/post-adid-13554143",
+  "metadata": {
+    "listing_id": "13554143",
+    "year": 2025,
+    "model_year": 2025,
+    "make": "Zeekr",
+    "model": "9X",
+    "price_usd": 148000,
+    "condition": "New",
+    "registration": "Not reported",
+    "location": "Chbar Ampov, Phnom Penh",
+    "province": "Phnom Penh",
+    "body_type": "Sedan",
+    "fuel_type": "Plug-in Hybrid",
+    "observed_at": "2026-07-28",
+    "market": "Cambodia",
+    "fuel_economy": "Up to 380 km CLTC pure-electric range",
+    "cylinders": "4",
+    "displacement_l": "2.0 L turbo gasoline hybrid engine",
+    "seats": "6",
+    "transmission": "SEA Super Hybrid electric-drive system",
+    "spec_source_name": "ZEEKR 9X official release",
+    "spec_source_url": "https://www.zeekrgroup.com/en/news/202509291",
+    "spec_confidence": "Official manufacturer model-family range",
+    "spec_note": "The 9X is a plug-in hybrid, not a battery-only EV. Official range uses China's CLTC cycle and varies by battery/trim.",
+    "image_url": "https://images.khmer24.co/26-05-22/zeekr-9x-telegram-0965555881-715185177945421875756270-b.jpg"
+  }
+}

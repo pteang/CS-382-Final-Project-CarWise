@@ -1,0 +1,33 @@
+{
+  "document_id": "khmer24-13589502-2004-scion-xb",
+  "title": "2004 Scion xB",
+  "text": "# 2004 Scion xB\n## Cambodian marketplace listing\n- Listing title: Scion 2004 negotiable.\n- Asking price: $5,400 USD.\n- Condition label: Used.\n- Location: Ponhea Kraek, Tboung Khmum.\n- Province or municipality: Tboung Khmum.\n- Registration or import-paper label: Plate Number.\n- Listing observed: 2026-07-26.\n## Vehicle details\n- Make: Scion.\n- Model: xB.\n- Model year: 2004.\n- Body type: Hatchback.\n- Fuel or powertrain: Gasoline.\n## Reference specifications\n- Fuel economy: 28–29 mpg combined.\n- Cylinders: 4.\n- Engine displacement: 1.5 L.\n- Seating capacity: 5.\n- Transmission: 4-speed automatic or 5-speed manual.\n- Specification confidence: Model-year range.\n- Specification source: U.S. DOE/EPA FuelEconomy.gov.\n- Specification note: The listing does not identify which transmission is installed.\n## Evidence scope\nThis is a timestamped Khmer24 marketplace listing in Cambodia. The asking price, condition label, paperwork label, and availability are seller-provided and may change after the observation date. The listing does not establish crash safety, reliability, mechanical condition, legal ownership, or a fair market value. Open the source listing and independently inspect the vehicle and documents before making a purchase. Technical specifications are separate model-year references and may not match the listed vehicle's exact trim, engine, transmission, wheels, or import market.",
+  "source_name": "Khmer24 Cambodia listing (seller-provided)",
+  "source_url": "https://www.khmer24.com/km/scion04-5400-adid-13589502",
+  "metadata": {
+    "listing_id": "13589502",
+    "year": 2004,
+    "model_year": 2004,
+    "make": "Scion",
+    "model": "xB",
+    "price_usd": 5400,
+    "condition": "Used",
+    "registration": "Plate Number",
+    "location": "Ponhea Kraek, Tboung Khmum",
+    "province": "Tboung Khmum",
+    "body_type": "Hatchback",
+    "fuel_type": "Gasoline",
+    "observed_at": "2026-07-26",
+    "market": "Cambodia",
+    "fuel_economy": "28–29 mpg combined",
+    "cylinders": "4",
+    "displacement_l": "1.5 L",
+    "seats": "5",
+    "transmission": "4-speed automatic or 5-speed manual",
+    "spec_source_name": "U.S. DOE/EPA FuelEconomy.gov",
+    "spec_source_url": "https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=19901&id=19902",
+    "spec_confidence": "Model-year range",
+    "spec_note": "The listing does not identify which transmission is installed.",
+    "image_url": "https://images.khmer24.co/26-05-31/scion04-5400--643870178020890733445138-b.jpg"
+  }
+}
